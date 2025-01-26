@@ -9,7 +9,7 @@
 - **Liya**: GEC Thrissur
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[deployed link-https://monumental-vacherin-dc16f2.netlify.app/]
 
 ### Project Description
 RDL Maps is a technology-driven solution designed to assist individuals in navigating through the campus of GEC Thrissur. With this project, users will be able to easily locate buildings, classrooms, and points of interest on campus. We aim to provide an interactive and user-friendly map experience through our website.
