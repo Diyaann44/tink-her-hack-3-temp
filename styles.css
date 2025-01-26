@@ -1,0 +1,66 @@
+/* styles.css */
+body {
+    padding:0;
+    margin:0;
+    background-image: url('/lib/img/2251868555715125.jpeg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:100vh;
+    width:100%;
+}
+
+
+header {
+    background-color: #E6E6FA;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+
+#map-container {
+    position: relative;
+    text-align: center;
+    padding: 20px;
+}
+
+#campus-map {
+    max-width: 100%;
+    height: auto;
+}
+
+#location-info {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#buttons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #E6E6FA;
+    color: black;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #E6E6FA;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #E6E6FA;
+    color: black;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
